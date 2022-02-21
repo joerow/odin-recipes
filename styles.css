@@ -2,3 +2,16 @@ img {
     width: 300px;
     height: auto;
 }
+
+body {
+    text-align: center;
+}
+
+ul {
+    background-color: beige;
+}
+
+.steps {
+    background-color: aqua;
+    text-align: left;
+}
